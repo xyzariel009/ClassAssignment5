@@ -23,3 +23,7 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 * Tend to be younger or mid-aged.
 * In sunny or rainy day.
 * Young people with friends or mid-aged people with partner.
+
+## Recommendations
+* Bar Coupons: Target frequent bar visitors over 25 years old who drive without kids.
+* Coffee House Coupons: Target younger or social passengers (friends, partners) especially during good weather.
